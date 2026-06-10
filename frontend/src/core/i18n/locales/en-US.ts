@@ -223,6 +223,23 @@ export const enUS: Translations = {
     agentCreated: "Agent created!",
     startChatting: "Start chatting",
     backToGallery: "Back to Gallery",
+    editPageTitle: "Edit Agent",
+    editNameLabel: "Name",
+    editDescriptionLabel: "Description",
+    editDescriptionPlaceholder: "Briefly describe what this agent is for",
+    editModelLabel: "Model override",
+    editModelPlaceholder: "Leave empty to use the default model",
+    editToolGroupsLabel: "Tool groups",
+    editSkillsLabel: "Skills",
+    editListPlaceholder: "One item per line, or comma-separated",
+    editListHint: "Leave empty to inherit the default behavior.",
+    editSoulLabel: "SOUL.md",
+    editSoulHint:
+      "Edit the agent's identity, behavior, constraints, and working style.",
+    editSoulPlaceholder: "Write the agent's SOUL.md content here",
+    editSaving: "Saving...",
+    editSaveSuccess: "Agent updated",
+    editLoadError: "Could not load this agent.",
   },
 
   // Breadcrumb

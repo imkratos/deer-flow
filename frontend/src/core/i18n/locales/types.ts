@@ -154,6 +154,22 @@ export interface Translations {
     agentCreated: string;
     startChatting: string;
     backToGallery: string;
+    editPageTitle: string;
+    editNameLabel: string;
+    editDescriptionLabel: string;
+    editDescriptionPlaceholder: string;
+    editModelLabel: string;
+    editModelPlaceholder: string;
+    editToolGroupsLabel: string;
+    editSkillsLabel: string;
+    editListPlaceholder: string;
+    editListHint: string;
+    editSoulLabel: string;
+    editSoulHint: string;
+    editSoulPlaceholder: string;
+    editSaving: string;
+    editSaveSuccess: string;
+    editLoadError: string;
   };
 
   // Breadcrumb
